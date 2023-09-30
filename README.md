@@ -66,6 +66,14 @@ Tarefacil" é destinado a pessoas que desejam realizar suas metas diárias e ter
 
    ![image](https://github.com/nicolastz10/Projeto-Integrador/assets/142109256/7320b5e2-827d-41fe-97d4-0e7b299730b5)
 
+## Ideias futuras
+
+1. Construir sistemas de tutoriais básicos para ensinar a utilização.
+2. Adicionar mais ferramentas à aplicação.
+3. Desenvolver uma interface mais elaborada (não tenho muita criatividade).
+4. Torná-lo compatível com todos os dispositivos eletrônicos.
+5. Implementar sistemas de gamificação (os usuários ganham recompensas por usar a aplicação e concluir tarefas).
+
 ## Licença
 
 Este projeto está sob a licença MIT.
