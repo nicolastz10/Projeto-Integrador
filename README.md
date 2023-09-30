@@ -1,35 +1,40 @@
-# tarefacil
+# Tarefacil
 
 ## Descrição
 
-PythonLingo é uma aplicação destinada a pessoas que desejam aprender Python de forma prática, rápida, acessível e flexível. A aplicação oferece uma abordagem educacional interativa para ensinar a linguagem de programação Python, permitindo aos usuários evoluir profissionalmente ou pessoalmente.
+Tarefacil" é destinado a pessoas que desejam realizar suas metas diárias e ter uma rotina o mais organizada possível. Observo entre as pessoas do meu convívio que muitas delas acabam se enrolando com as diversas tarefas diárias, e acredito que essa aplicação possa ajudar de alguma forma.
+
+## Ideia inicial de interface
+
+![image](https://github.com/nicolastz10/Projeto-Integrador/assets/142109256/8adb577e-153f-4902-9ce1-f2397c89ac5c)
 
 ## Requisitos Funcionais
 
-1. **Lições Interativas e Desafios Práticos:**
-   - Apresentar uma lista de lições organizadas por tópicos de Python.
-   - Cada lição deve incluir uma descrição do conceito e um desafio prático relacionado.
-   - Permitir que o usuário selecione uma lição e visualize o desafio associado.
+1. **Ferramentas:**
+    - Apresenta opções de cadastrar usuário, adicionar tarefas e visualizar as tarefas de um dia específico.
+    - Permite que o usuário faça seu cadastro com informações como nome completo, email e senha.
+    - Em geral, a opção de adicionar tarefas permite adicionar vários objetivos para dias específicos da semana. Posteriormente, o usuário pode visualizar as tarefas desse dia por meio da opção "ver as tarefas".
+    - Permite que o usuário saia do aplicativo a qualquer momento por meio da quarta opção.
+  
+      ![image](https://github.com/nicolastz10/Projeto-Integrador/assets/142109256/c5ad60ab-b20b-4468-ae31-e88109b4f0af)
 
 2. **Progressão Contínua e Complexidade Crescente:**
-   - Implementar um sistema de níveis em que cada nível apresenta desafios mais complexos que o anterior.
-   - Ao completar um desafio, o usuário avança para o próximo nível automaticamente.
+   - Permite que o usuário aprenda e se acostume com sua funcionalidade simples, posteriormente adicionando funcionalidades mais avançadas.
+   - O organizador de rotina permite que os usuários personalizem suas experiências à medida que avançam.
+  
+     ![image](https://github.com/nicolastz10/Projeto-Integrador/assets/142109256/9c34ec4d-28cd-4648-a283-5aecb9bfe7cf)
 
 3. **Ambiente Integrado de Teste de Código:**
    - Fornecer uma área de texto onde os usuários possam escrever e testar o código Python.
-   - Incluir um botão "Executar" para avaliar o código do usuário e fornecer feedback imediato sobre a correção.
+   - As ferramentas da aplicação fornecem feedback imediato e mantêm os dados privados apenas para o próprio usuário.
 
 4. **Plataforma Acessível em Computadores:**
-   - Criar uma interface gráfica utilizando o tkinter que seja intuitiva e fácil de navegar.
+   - Criar uma interface gráfica utilizando o Draw.io que seja intuitiva e fácil de navegar.
    - Garantir que a aplicação seja redimensionável e se adapte a diferentes tamanhos de tela.
 
-5. **Conteúdo Didático e Explicativo:**
-   - Incluir dicas, sugestões e explicações relevantes para cada desafio.
-   - Permitir que os usuários solicitem pistas quando estiverem presos em um desafio específico.
-
-6. **Acompanhamento de Rotina de Estudos:**
-   - Implementar um calendário de estudos que permita aos usuários definir metas diárias ou semanais.
-   - Enviar lembretes aos usuários para lembrá-los de suas sessões de estudo.
+5. **Acompanhamento de Rotina de Estudos:**
+   - Os usuários podem definir metas de estudo a curto e longo prazo.
+   - O organizador pode enviar lembretes e notificações para manter os usuários no caminho certo.
 
 
 ## Requisitos Não Funcionais
