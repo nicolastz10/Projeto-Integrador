@@ -37,7 +37,7 @@ Tarefacil" é destinado a pessoas que desejam realizar suas metas diárias e ter
 
 ## Requisitos Não Funcionais
 
-- **Performance**: A aplicação é simples e responde rapidamente após o usuário realizar alguma função, como adicionar uma tarefa para quarta-feira.
+- **Performance**: A aplicação é simples e responde rapidamente após o usuário realizar alguma função, como adicionar uma tarefa para algum dia.
 - **Usabilidade**: Uma interface fácil de usar que contribui para uma experiência mais eficiente.
 - **Escalabilidade**: A aplicação deve suportar um aumento no número de usuários sem comprometer a qualidade.
 - **Segurança**: Garante a segurança dos dados pessoais dos usuários, permitindo que apenas eles possam visualizar seus próprios dados.
