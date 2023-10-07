@@ -29,8 +29,8 @@ Tarefacil" é destinado a pessoas que desejam realizar suas metas diárias e ter
    - As ferramentas da aplicação fornecem feedback imediato e mantêm os dados privados apenas para o próprio usuário.
 
 4. **Plataforma Acessível em Computadores:**
-   - Criar uma interface gráfica utilizando o Draw.io que seja intuitiva e fácil de navegar.
-   - Garantir que a aplicação seja redimensionável e se adapte a diferentes tamanhos de tela.
+   - Tem uma interface gráfica que é intuitiva e fácil de navegar.
+   - Garantia que a aplicação seja redimensionável e se adapte a diferentes tamanhos de tela.
 
 5. **Acompanhamento de Rotina de Estudos:**
    - Os usuários podem definir metas a curto e longo prazo.
