@@ -34,8 +34,6 @@ Tarefacil" é destinado a pessoas que desejam realizar suas metas diárias e ter
 
 5. **Acompanhamento de Rotina de Estudos:**
    - Os usuários podem definir metas a curto e longo prazo.
-   - O organizador pode enviar lembretes e notificações para manter os usuários no caminho certo.
-
 
 ## Requisitos Não Funcionais
 
